@@ -8,4 +8,4 @@ dependencies:
   - numpy=1.16
   - ipython=5.5
   - decorator=4.4.2
-
+  - matplotlib=2.2
